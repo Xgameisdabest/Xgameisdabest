@@ -1,6 +1,6 @@
-> Vietnamese dev <br>
-> Ubuntu user <br>
-> iq under 50
+\> Vietnamese dev <br>
+\> Ubuntu user <br>
+\> iq under 50
 
 <!--
 **Xgameisdabest/Xgameisdabest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
